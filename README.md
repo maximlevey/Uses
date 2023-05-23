@@ -67,7 +67,7 @@ Home-made 1200x600 Desk • Steelcase Series 1 • Acer CB382CUR 38" Ultrawide �
 
 ## Everyday Carry
 
-[July Carry All Backpack Series 2](https://july.com/au/travel-bags/carry-all-backpack/) • Work Laptop • Airpod Max • Moleskin Notebook • Various Apple Adapters, Cables & Power Bricks • Magic Mouse & Keyboard • Airtag • Yubikey 5C 
+[July Carry All Backpack Series 2](https://july.com/au/travel-bags/carry-all-backpack/) • Work Laptop • Airpod Max • Moleskin Notebook • Various Apple Adapters, Cables & Power Bricks • Magic Mouse • Magic Keyboard • Airtag • Yubikey 5C 
 
 ## Resources
 [uses.tech](https://uses.tech/like/apple) • [MacAdmins Slack](https://macadmins.slack.com/) • [ScriptingOSX](https://scriptingosx.com/)
