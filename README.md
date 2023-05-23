@@ -43,7 +43,7 @@ blender			dozer			messenger		slack			warp
 brave-browser		firefox			mimestream		suspicious-package	wireshark
 coderunner		font-hack-nerd-font	rectangle		the-unarchiver		zoom
 ```
-My full (messy) `$ brew list` can be found here
+My full (messy) `$ brew list` can be found [here](https://github.com/maximlevey/Uses/blob/main/Resources/brewList.md)
 
 ## Software
 
