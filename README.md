@@ -3,7 +3,7 @@
 ### Hello 👋 my name is Maxim. 
 I'm a macOS Systems Engineer at Monash and write terrible code in my free time. Here are my tools of the trade...
 
-![Screenshot 2023-05-23 at 8 44 42 pm](https://raw.githubusercontent.com/maximlevey/Uses/assets/72744507/9836d935-3648-4eff-b3c3-22b6e6bdc2b4)
+![Screenshot 2023-05-23 at 8 44 42 pm](https://user-images.githubusercontent.com/maximlevey/Uses/assets/72744507/9836d935-3648-4eff-b3c3-22b6e6bdc2b4)
 
 ## Hardware
 
