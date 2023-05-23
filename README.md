@@ -19,7 +19,7 @@ I'm a macOS Systems Engineer at Monash and write terrible code in my free time. 
 
 ## Work Laptop
 
-**M2 Macbook Pro** • 12-core CPU • 12-core GPU • 32GB RAM • 256GB SSD
+**M1 Pro Macbook Pro** • 8-core CPU • 8-core GPU • 16GB RAM • 500GB SSD
 
 <br/><br/>
 
@@ -63,13 +63,17 @@ My full `$ brew list` output can be found [here](https://github.com/maximlevey/U
 
 ![2022 Battlestation](https://github.com/maximlevey/Uses/assets/72744507/63c0faf9-0441-48a1-9134-f551aa02d091)
 
-Home-made 1200x600 Desk • Steelcase Series 1 • Acer CB382CUR 38" Ultrawide • Keychron K12 with Gateron Reds • Logitech MX Master 3 • AirPod Max • Blue Snowball Microphone • RPi4 running DietPi • Custom "Virtual KVM" Software
+Home-made Hardwood Desk • Steelcase Series 1 • Acer RG321QU 32" Monitor • Keychron K12 with Gateron Reds • Logitech MX Master 3 • AirPod Max • Blue Snowball Microphone • RPi4 running DietPi • Custom "Virtual KVM" Software for Input Switching
+
+**Plus a few other "essentials" around the house...**
+
+Apple TV 4K • JBL Soundbar 3.1 • Breville Barista Express 
 
 ## Everyday Carry
 
-[July Carry All Backpack Series 2](https://july.com/au/travel-bags/carry-all-backpack/) • Work Laptop • Airpod Max • Moleskin Notebook • Various Apple Adapters, Cables & Power Bricks • Magic Mouse • Magic Keyboard • Airtag • Yubikey 5C 
+Work Laptop • Airpod Max • Moleskin Notebook • Various Apple Adapters, Cables & Power Bricks • Magic Mouse • Magic Keyboard • Airtag • Various Yubikeys
 
-## Resources
+## Further Reading
 [uses.tech](https://uses.tech/like/apple) • [MacAdmins Slack](https://macadmins.slack.com/) • [ScriptingOSX](https://scriptingosx.com/)
 
 [^1]: For transparency sake, this is a shameless self-plug, that said I do use Teleport every day, I think it's neat!
