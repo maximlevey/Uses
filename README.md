@@ -1,7 +1,7 @@
 # /uses inspired by Wes Bos
 
 ### Hello 👋 my name is Maxim. 
-I'm a macOS Systems Engineer at Monash and write terrible code in my free time. Here are my tools of the trade...
+I'm a macOS Systems Engineer at Monash and try my best at writing some Swift and Shell in my free time. Here are my tools of the trade...
 
 ![Screenshot 2023-05-23 at 8 44 42 pm](https://github.com/maximlevey/Uses/assets/72744507/d70c5b7c-9be3-496a-8c4f-155dff660e2b)
 
