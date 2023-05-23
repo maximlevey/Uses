@@ -3,11 +3,11 @@
 ### Hello 👋 my name is Maxim. 
 I'm a macOS Systems Engineer at Monash and write terrible code in my free time. Here are my tools of the trade...
 
-![Screenshot 2023-05-23 at 8 44 42 pm](https://user-images.githubusercontent.com/maximlevey/Uses/assets/72744507/9836d935-3648-4eff-b3c3-22b6e6bdc2b4)
+![Screenshot 2023-05-23 at 8 44 42 pm](https://github.com/maximlevey/Uses/assets/72744507/d70c5b7c-9be3-496a-8c4f-155dff660e2b)
 
 ## Hardware
 
-<img align="left" width="100" height="100" src="https://github.com/maximlevey/Uses/assets/72744507/ca0e1ad3-2aa0-4ad9-adb6-34b904329eec">
+<img align="left" width="100" height="100" src="https://github.com/maximlevey/Uses/assets/72744507/b321292f-2aa2-4418-b18b-709e27bcef11">
 
 ## Personal Desktop
 
@@ -15,7 +15,7 @@ I'm a macOS Systems Engineer at Monash and write terrible code in my free time. 
 
 <br/><br/>
 
-<img align="left" width="100" height="100" src="https://github.com/maximlevey/Uses/assets/72744507/72920a4f-4fe1-4f13-be6f-8cfb5e29f8f6">
+<img align="left" width="100" height="100" src="https://github.com/maximlevey/Uses/assets/72744507/6525664f-d447-4719-8907-1238a91c9fc9">
 
 ## Work Laptop
 
@@ -23,7 +23,7 @@ I'm a macOS Systems Engineer at Monash and write terrible code in my free time. 
 
 <br/><br/>
 
-<img align="left" width="100" height="100" src="https://github.com/maximlevey/Uses/assets/72744507/ee2e2c04-cef2-43f8-9bc1-6021c1b27d5c">
+<img align="left" width="100" height="100" src="https://github.com/maximlevey/Uses/assets/72744507/f9a6efd9-7d79-4a42-b5a2-2e70e5408abd">
 
 ## Phone
 
@@ -61,7 +61,8 @@ My full `$ brew list` output can be found [here](https://github.com/maximlevey/U
 
 ## Home Office
 
-![2022 Battlestation](https://github.com/maximlevey/Uses/assets/72744507/63c0faf9-0441-48a1-9134-f551aa02d091)
+![2022 Battlestation](https://github.com/maximlevey/Uses/assets/72744507/f694de2c-9869-4ec6-8251-6764dec946a2)
+
 
 Home-made Hardwood Desk • Steelcase Series 1 • Acer RG321QU 32" Monitor • Keychron K12 with Gateron Reds • Logitech MX Master 3 • AirPod Max • Blue Snowball Microphone • RPi4 running DietPi • Custom "Virtual KVM" Software for Input Switching
 
