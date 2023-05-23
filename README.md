@@ -33,7 +33,7 @@ I'm a macOS Systems Engineer at Monash and write terrible code in my free time. 
 
 ## Terminal
 
-[**Warp Terminal**](https://www.warp.dev/) • [Oh-my-Zsh](https://ohmyz.sh) • [Starship Prompt](https://starship.rs/) • [Homebrew](https://brew.sh/) • [Custom Theme](https://github.com/maximlevey) 
+[**Warp Terminal**](https://www.warp.dev/) • [Oh-my-Zsh](https://ohmyz.sh) • [Starship Prompt](https://starship.rs/) • [Homebrew](https://brew.sh/) • [Custom Theme](https://github.com/maximlevey/Uses/blob/main/Resources/warptheme.yaml) 
 
 ```bash
 ==> Casks
