@@ -25,7 +25,7 @@ I'm a macOS Systems Engineer at Monash and write terrible code in my free time. 
 
 <img align="left" width="100" height="100" src="https://github.com/maximlevey/Uses/assets/72744507/ee2e2c04-cef2-43f8-9bc1-6021c1b27d5c">
 
-## Mobile
+## Phone
 
 **iPhone 13** • 256GB • Space Grey • Magsafe Case & Wallet
 
