@@ -1,4 +1,4 @@
-# /uses
+# /uses inspired by Wes Bos
 
 ### Hello 👋 my name is Maxim. 
 I'm a macOS Systems Engineer at Monash and write terrible code in my free time. Here are my tools of the trade...
