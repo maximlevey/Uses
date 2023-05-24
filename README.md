@@ -47,9 +47,9 @@ My full `$ brew list` output can be found [here](https://github.com/maximlevey/U
 
 ## Software
 
-**General**
+**General** 
 
-[iCloud](https://www.icloud.com/) • [Firefox](https://www.mozilla.org/en-US/firefox/new/) • [Mimestream](https://mimestream.com/) • [1Password](https://1password.com/) • [Rectangle](https://rectangleapp.com/) • [Dozer](https://github.com/Mortennn/Dozer) • [Teleport](https://github.com/maximlevey/Teleport) [^1]
+[iCloud](https://www.icloud.com/) • [Firefox](https://www.mozilla.org/en-US/firefox/new/) • [Slack](https://slack.com) • [Mimestream](https://mimestream.com/) • [1Password](https://1password.com/) • [Rectangle](https://rectangleapp.com/) • [Dozer](https://github.com/Mortennn/Dozer) • [Teleport](https://github.com/maximlevey/Teleport) [^1]
 
 **macOS Administration**
 
